@@ -1,10 +1,9 @@
-# elig
+#day 2
+##elif statement 
 
-Problem: Travel Suggestion Based on Weather
+Write a Python program that takes the current temperature as input and suggests an activity based on the following criteria:
 
-Write a Python program that takes the current temperature as input and suggests an activity based on the 
-
-Below 0
+Temperature Below 0
 
 "Stay indoors and drink hot chocolate."
 
@@ -23,7 +22,5 @@ Below 0
 Above 30
 
 "Stay cool and hydrated indoors."
-If the input is not a valid number (e.g., letters or symbols), the program should output: "Invalid input. Please enter a number."
 
-
-
+If the input is not a valid number the program should output: "Invalid input. Please enter a number"
