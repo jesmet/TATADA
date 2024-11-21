@@ -1,4 +1,5 @@
 #day 2
+
 ##elif statement 
 
 Write a Python program that takes the current temperature as input and suggests an activity based on the following criteria:
